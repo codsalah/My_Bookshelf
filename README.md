@@ -1,5 +1,5 @@
 # My_Bookshelf
-A personal repository to track my readings.
+A personal repository to track my (technical) readings.
 
 # Books
 - [📖 Clean Code](./Clean%20Code/)
