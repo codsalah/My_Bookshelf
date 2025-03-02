@@ -6,4 +6,4 @@ Ch3: torage and Retrieval. ✅
 Ch4: Encoding and Evolution.
 #### Part II Distributed Data.
 Ch5: Replication. ✅
-
+Ch6: Partitioning ✅ 
