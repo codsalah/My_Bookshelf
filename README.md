@@ -3,6 +3,7 @@ A personal repository to track my (technical) readings.
 
 # Books
 - [📖 Clean Code](./Clean%20Code/)
+- [📖 C Programming A Modern Approach](./C%20Programming_%20A%20Modern%20Approach/)
 - [📖 Data Pipelines with Apache Airflow](./Data%20Pipelines%20with%20Apache%20Airflow/)
 - [📖 Designing Data Intensive Applications](./Designing%20Data%20Intensive%20Applications/)
 - [📖 Spark Definitive Guide](./Spark%20Definitive%20Guide/)
