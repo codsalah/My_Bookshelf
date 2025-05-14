@@ -25,6 +25,7 @@
 - Ch16: Developing Spark Applications ✅
 ## Streaming 
 - Ch20: Stream Processing fundamentals ✅
+- Ch21: Structured Streaming Basics ✅
 
 
 
