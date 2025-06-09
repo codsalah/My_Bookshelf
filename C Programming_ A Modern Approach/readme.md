@@ -8,4 +8,4 @@
 - Ch6: Loops ✅ 
 - Ch7: Basic Types ✅ 
 - Ch8: Arrays ✅ 
-- Ch9: 
+- Ch9: Pointers ✅
